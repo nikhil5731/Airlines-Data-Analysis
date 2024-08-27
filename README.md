@@ -38,14 +38,6 @@ A shortage of skilled professionals in the aviation sector has led to increased 
 - Formulated a pricing strategy based on market conditions and customer preferences.
 - Proposed enhancements to improve the overall customer experience.
 
-## Usage
-
-To reproduce the analysis and explore the insights:
-
-1. Clone this repository: `git clone https://github.com/Ashutosh-Ojha/Airlines-Data-Analysis-using-Python-SQL`
-2. Navigate to the project directory: `cd airline-profitability-analysis`
-3. Open the Jupyter Notebook: `jupyter notebook`
-4. Run the notebook cells to execute the analysis.
 
 ## Dataset
 
@@ -71,9 +63,3 @@ Please download the dataset and place it in the appropriate directory before run
 8. Airlines need to find a balance between profit and delivering high-quality service while upholding safety regulations.
 
 9. Adopting a data-driven strategy for revenue analysis and optimization can help airlines achieve long-term success in a competitive business.
-
-## Report
-
-For detailed insights and technical details, please refer to the [project report](https://github.com/Ashutosh-Ojha/Airlines-Data-Analysis-using-Python-SQL/blob/master/Report%20of%20Airlines%20Analysis.pdf) included in this repository.
-
-Feel free to explore the Jupyter Notebook for a comprehensive view of the analysis.
